@@ -1,0 +1,5 @@
+spriteTypes = {	
+
+	spriteType = { name = "GFX_unit_garrison_icon_medium"								textureFile = "gfx/interface/counters/divisions_large/unit_military_police_icon.dds" noOfFrames = 2 }
+
+}
