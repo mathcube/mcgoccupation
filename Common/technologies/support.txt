@@ -501,9 +501,9 @@ technologies = {
 		military_police = {
 			suppression_factor = 0.1
 		}
-#		garrison = {
-#			suppression = 2
-#		}
+		garrison = {
+			suppression = 5
+		}
 		
 		
 		path = {
@@ -538,9 +538,9 @@ technologies = {
 		military_police = {
 			suppression_factor = 0.1
 		}
-#		garrison = {
-#			suppression = 2
-#		}
+		garrison = {
+			suppression = 5
+		}
 		path = {
 			leads_to_tech = tech_military_police4
 			research_cost_coeff = 1
